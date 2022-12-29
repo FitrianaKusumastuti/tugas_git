@@ -5,7 +5,7 @@
 <h1>Halaman HTML</h1>
 
 <?php
-echo "Welcome!";
+echo "Welcome to my world!";
 ?>
 
 </body>
